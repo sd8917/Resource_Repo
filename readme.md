@@ -1,4 +1,20 @@
 
+<a href="https://github.com/sd8917/Mames-picker/stargazers"><img src="https://img.shields.io/github/stars/sd8917/Mames-picker" alt="Stars Badge"/></a>
+<a href="https://github.com/sd8917/Mames-picker/network/members"><img src="https://img.shields.io/github/forks/sd8917/Mames-picker" alt="Forks Badge"/></a>
+<a href="https://github.com/sd8917/Mames-picker/pulls"><img src="https://img.shields.io/github/issues-pr/sd8917/Mames-picker" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/sd8917/Mames-picker/issues"><img src="https://img.shields.io/github/issues/sd8917/Mames-picker" alt="Issues Badge"/></a>
+<a href="https://github.com/sd8917/Mames-picker/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sd8917/Mames-picker?color=2b9348"></a>
+<a href="https://github.com/sd8917/Mames-picker/master/LICENSE"><img src="https://img.shields.io/github/license/sd8917/Mames-picker?color=2b9348" alt="License Badge"/></a>
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sd8917/Resource_Repo.git
+git push -u origin main
+
 
 #WevDevProject
 https://www.frontendmentor.io/
